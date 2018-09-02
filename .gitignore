@@ -33,3 +33,9 @@
 
 # input
 *.txt
+*.swp
+
+# no ext file
+*
+!/**/
+!*.*
